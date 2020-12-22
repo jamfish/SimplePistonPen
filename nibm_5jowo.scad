@@ -10,9 +10,9 @@ nibm_module_mind= 4.5*2;
 //in which nib goes freely
 nibm_top_h= 18;
 //height of thread we're screwing into
-nibm_thread_h=4;
+nibm_thread_h=3;
 //height of bottom (below threads)
-nibm_bottom_h=1;
+nibm_bottom_h=3;
 // Height of printed part of nib module
 nibm_h= nibm_top_h + nibm_bottom_h + nibm_thread_h;
 // Diameter of the cylinder in wich nib goes freely

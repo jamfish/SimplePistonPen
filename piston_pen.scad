@@ -11,8 +11,8 @@ include <nibm_pbock250.scad>
 //include <nibm_reform.scad>
 
 // Show/render parameters
-//include <draft_view.scad>
-include <fine_view.scad>
+include <draft_view.scad>
+//include <fine_view.scad>
 
 //What parts to construct
 pp_show_back1=true;
@@ -21,8 +21,8 @@ pp_show_piston=true;
 pp_show_screw=true;
 pp_show_pins=true;
 pp_show_body=true;
-pp_show_cup1=true;
-pp_show_cup2=true;
+pp_show_cup1=false;
+pp_show_cup2=false;
 
 pp_show_print_helper=false;
 
